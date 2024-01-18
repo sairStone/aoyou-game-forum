@@ -1,0 +1,21 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(62, 3, 73);
+    text-decoration: none;
+}
+em,li{
+    font-style: normal;
+}
+input,button{
+    cursor: pointer;
+    border: 0;
+    outline: none;
+}

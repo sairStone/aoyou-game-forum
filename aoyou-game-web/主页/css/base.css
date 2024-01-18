@@ -1,0 +1,29 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+li{
+    list-style: none;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+a:hover{
+    /* color: red; */
+    text-decoration: none;
+}
+em,li{
+    font-style: normal;
+}
+img{
+    border: 0;
+    vertical-align: middle;
+}
+input,button{
+    cursor: pointer;
+    border: 0;
+    outline: none;
+}
